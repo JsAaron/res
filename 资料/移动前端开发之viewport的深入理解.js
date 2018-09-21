@@ -1,5 +1,6 @@
 https://www.cnblogs.com/2050/p/3877280.html
 https://blog.csdn.net/qq_22844483/article/details/79730604
+viewports剖析 http://www.w3cplus.com/css/viewports.html
 
 1.viewprot 视区,移动设备上的viewport就是设备的屏幕上能用来显示我们的网页的那一块区域
 分为3个视区

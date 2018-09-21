@@ -1,5 +1,8 @@
 https://blog.csdn.net/kormondor/article/details/77894246
 https://www.cnblogs.com/lunarorbitx/p/5287309.html
+https://www.cnblogs.com/superlizhao/p/8729190.html
+https://blog.csdn.net/web_youth/article/details/74547518
+https://www.cnblogs.com/ranyonsue/p/6795943.html 移动端H5页面高清多屏适配方案
 
 物理像素:一个物理像素是显示器(手机屏幕)上最小的物理显示单元，在操作系统的调度下，每一个设备像素都有自己的颜色值和亮度值。
 独立像素：抽象的，与密度无关的像素，程序使用的虚拟像素，css
